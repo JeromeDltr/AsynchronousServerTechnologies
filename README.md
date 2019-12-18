@@ -1,14 +1,14 @@
-# Lab 2 TypeScript
+# Final project
 
 ## Introduction
 
-The basic Node.js application on TypeScript.
+For that project, I was alone.
 
 ## Installing
 
 ```bash
-git clone https://github.com/sergkudinov/ece-nodejs-2-typescript.git
-cd ece-nodejs-2-typescript
+git clone https://github.com/JeromeDltr/AsynchronousServerTechnologies.git
+cd ece-nodejs-4-middleware
 npm install
 ```
 
@@ -24,4 +24,3 @@ npm run build
 npm run dev
 ```
 
-## Contributors
