@@ -1,13 +1,13 @@
-# Final project
+# Lab 4 Middleware and Unit testing
 
 ## Introduction
 
-For that project, I was alone.
+The basic Node.js application on TypeScript.
 
 ## Installing
 
 ```bash
-git clone https://github.com/JeromeDltr/AsynchronousServerTechnologies.git
+git clone 
 cd ece-nodejs-4-middleware
 npm install
 ```
@@ -24,3 +24,12 @@ npm run build
 npm run dev
 ```
 
+## Database population
+
+```bash
+npm run populate
+```
+
+## Contributors
+
+Sergei Kudinov
