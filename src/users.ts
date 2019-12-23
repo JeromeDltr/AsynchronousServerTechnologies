@@ -31,6 +31,8 @@ export class User {
     return this.password
   }
 
+  
+
   public validatePassword(toValidate: String): boolean {
     // return comparison with hashed password
     return this.password == toValidate

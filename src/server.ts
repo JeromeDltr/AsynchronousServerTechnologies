@@ -39,11 +39,17 @@ const authRouter = express.Router()
 
 authRouter.get('/login', (req: any, res: any) => {
   res.render('login')
+  //user : request.user
 })
 
 authRouter.get('/signup', (req: any, res: any) => {
   res.render('signup')
 })
+
+authRouter.get('/page1', (req: any, res: any) => {
+  res.render('page1')
+  console.log("azedfr")
+});
 
 authRouter.get('/logout', (req: any, res: any) => {
   delete req.session.loggedIn
