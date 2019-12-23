@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The basic Node.js application on TypeScript.
+This is the Node.js application project.
 
 ## Installing
 
 ```bash
-git clone 
-cd ece-nodejs-4-middleware
+git clone https://github.com/JeromeDltr/AsynchronousServerTechnologies.git
+cd AsynchronousServerTechnologies
 npm install
 ```
 
@@ -32,4 +32,4 @@ npm run populate
 
 ## Contributors
 
-Sergei Kudinov
+Jérôme Deltour
